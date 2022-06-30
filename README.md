@@ -20,4 +20,4 @@ GitHub - https://github.com/Vikash123789
 
 
 
-![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d707269796134326261676465](https://user-images.githubusercontent.com/99880930/176762226-1b9d8c54-d90d-4d9d-8334-98739a381040.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikash123789&layout=compact)](https://github.com/vikash123789/github-readme-stats)
