@@ -1,16 +1,14 @@
-### Hi there 👋
+                                                          Hi there 👋, I'm Vikash!
 
-<!--
-**Vikash123789/Vikash123789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Have exposure♛ to build back-end applications. Skilled in Back-End Technologies writing_hand as NodeJS, Redis, EcmaScript, JavaScript, HTML, CSS, GitHub, Net, NoSQL,MongoDB,AWS-S3 and API Development for web and window-based applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apart from my professional journey, I am a learnermemo and enthusiastic to learn new tech. I have created 5 mini & major projects briefcase on NodeJS and other technologies.
+
+ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
+ 
+ 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-000030?style=for-the-badge&logo=LinkedIn&logoColor=white)
+LinkedIn - https://www.linkedin.com/in/vikash-vishwakarma-81a728195
+GitHub - https://github.com/Vikash123789
+Portfolio - For portfolio connect with me.
